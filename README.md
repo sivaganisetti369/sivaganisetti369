@@ -122,8 +122,8 @@ To build a career in **Cybersecurity and Digital Forensics** by applying IoT, ne
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add your link)
-- Email: (add your mail)
+- LinkedIn: https://www.linkedin.com/in/siva-ganisetti/
+- Email: sivagannisetti@gmail.com
 
 ---
 
