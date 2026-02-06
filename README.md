@@ -1,27 +1,130 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Siva Ganisetti</h1>
+<h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Digital Forensics Learner | IoT Developer</h3>
 
-<!--
-**sivaganisetti369/sivaganisetti369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# 💫 About Me:
-Cybersecurity-focused Computer Science student with strong interest in Offensive Security and Digital Forensics, backed by hands-on lab practice and internship experience. Passionate about learning, problem-solving, and building secure systems with an ethical mindset. Open to relocation and eager to contribute to security teams in dynamic, real-world environments.<br>Professional Skills<br><br>Penetration Testing & Vulnerability Assessment<br>Service Enumeration, Reconnaissance & Attack Surface Analysis<br><br>Digital Forensics Basics & Log/Artifact Examination<br><br>Linux Environment & Security Testing Tools<br><br>Python, C/C++, and Bash Scripting for Security Tasks<br><br>Computer Networks, TCP/IP, and Protocol Analysis<br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siva-ganisetti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivagannisetti@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sivaganisetti369&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sivaganisetti369&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganisetti369&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sivaganisetti369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivaganisetti369&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganisetti369" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sivaganisetti369&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Final Year Engineering Student
+- 🔐 Strong interest in **Cybersecurity, VAPT, and Digital Forensics**
+- 🌱 Actively learning **Network Security, Ethical Hacking, Cloud Security**
+- 🛠️ Hands-on experience with **ESP32, IoT systems, MQTT, Firebase**
+- 🧪 Performing labs on **TryHackMe** and real packet analysis using **Wireshark**
+- 📍 Open to relocation for cybersecurity roles and internships
+
+---
+
+## 🧠 Technical Skills
+
+### 🔐 Cybersecurity & Networking
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- OWASP Top 10
+- VAPT Basics
+- Network Scanning & Enumeration
+- Packet Analysis
+- Digital Forensics Fundamentals
+
+---
+
+### 💻 Programming & IoT
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+- Embedded C / Arduino Programming
+- ESP32 Projects
+- Sensor Integration
+- Relay & Automation Logic
+
+---
+
+### ☁️ Cloud & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🔬 Major Projects (Detailed)
+
+### 🌱 ESP32 Smart Agriculture Monitoring System
+**Tech:** ESP32, Soil Moisture, DHT11, NPK, pH Sensor, MQTT, Firebase, Relay
+
+This project is a complete IoT-based smart farming solution. The ESP32 collects real-time environmental and soil parameters and uploads the data simultaneously to **MQTT broker** and **Firebase Cloud**. Based on soil moisture values, an automated **relay-controlled irrigation system** is triggered.
+
+**Key Learning:**
+- Sensor calibration and data acquisition
+- Real-time cloud data streaming
+- MQTT protocol implementation
+- Automation logic for irrigation
+- Firebase integration with embedded devices
+
+---
+
+### 📡 ESP32 Wi-Fi Security Experimentation Tool
+**Tech:** ESP32, Wi-Fi packet handling, Embedded C
+
+This project was built to understand how Wi-Fi communication works at a lower level. It focuses on packet monitoring, beacon behavior, and wireless communication patterns for cybersecurity learning purposes.
+
+**Key Learning:**
+- Understanding 802.11 Wi-Fi frames
+- Wireless packet observation
+- Embedded device use in security research
+
+---
+
+### 🛡️ Network Traffic Analysis using Wireshark
+**Tech:** Wireshark, TCP/IP, DNS, HTTP, ARP
+
+Captured and analyzed live network traffic to identify suspicious packets, DNS queries, ARP spoofing patterns, and HTTP request behavior.
+
+**Key Learning:**
+- Deep packet inspection
+- Protocol-level analysis
+- Identifying anomalies in traffic
+
+---
+
+### 🔍 TryHackMe Labs & Network Services Enumeration
+Performed enumeration and analysis of network services, misconfigurations, and vulnerabilities through guided labs.
+
+**Key Learning:**
+- Service enumeration
+- Vulnerability identification
+- Practical network security concepts
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaganisetti369&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivaganisetti369&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+To build a career in **Cybersecurity and Digital Forensics** by applying IoT, networking, and security knowledge to solve real-world security problems.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add your link)
+- Email: (add your mail)
+
+---
+
+⭐ **"I don’t just learn security. I build, test, and break systems to understand it."**
