@@ -1,107 +1,82 @@
 <h1 align="center">Hi 👋, I'm Siva Ganisetti</h1>
-<h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Digital Forensics Learner | IoT Developer</h3>
+<h3 align="center">Cybersecurity | Penetration Testing | SOC | Digital Forensics</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivaganisetti369&label=Profile%20views&color=0e75b6&style=flat" alt="sivaganisetti369" />
+  <img src="https://komarev.com/ghpvc/?username=sivaganisetti369&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔐 About Me
 
-- 🎓 Final Year Engineering Student
-- 🔐 Strong interest in **Cybersecurity, VAPT, and Digital Forensics**
-- 🌱 Actively learning **Network Security, Ethical Hacking, Cloud Security**
-- 🛠️ Hands-on experience with **ESP32, IoT systems, MQTT, Firebase**
-- 🧪 Performing labs on **TryHackMe** and real packet analysis using **Wireshark**
-- 📍 Open to relocation for cybersecurity roles and internships
+🎓 Engineering student focused entirely on Cybersecurity  
+🛡️ Hands-on in VAPT, Network Analysis, and Security Testing  
+🔍 Learning Digital Forensics and Incident Investigation  
+🧪 Practicing real-world labs on TryHackMe & Kali Linux  
+📍 Open to relocation for cybersecurity internships and roles  
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Core Skills
 
-### 🔐 Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### 🛠️ Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-- OWASP Top 10
-- VAPT Basics
+### 📚 Knowledge Areas
+- OWASP Top 10 Vulnerabilities
 - Network Scanning & Enumeration
-- Packet Analysis
+- Packet Analysis & Traffic Monitoring
+- Web Application Testing Basics
+- SOC Fundamentals & Log Analysis
 - Digital Forensics Fundamentals
+- TCP/IP, DNS, HTTP, ARP Protocol Analysis
 
 ---
 
-### 💻 Programming & IoT
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+## 🔬 Cybersecurity Projects
 
-- Embedded C / Arduino Programming
-- ESP32 Projects
-- Sensor Integration
-- Relay & Automation Logic
+### 🛡️ Network Traffic Analysis & Threat Detection
+Captured live packets using Wireshark and analyzed protocols such as DNS, HTTP, TCP, and ARP to detect suspicious patterns and possible attacks like ARP spoofing and DNS anomalies.
 
----
-
-### ☁️ Cloud & Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-## 🔬 Major Projects (Detailed)
-
-### 🌱 ESP32 Smart Agriculture Monitoring System
-**Tech:** ESP32, Soil Moisture, DHT11, NPK, pH Sensor, MQTT, Firebase, Relay
-
-This project is a complete IoT-based smart farming solution. The ESP32 collects real-time environmental and soil parameters and uploads the data simultaneously to **MQTT broker** and **Firebase Cloud**. Based on soil moisture values, an automated **relay-controlled irrigation system** is triggered.
-
-**Key Learning:**
-- Sensor calibration and data acquisition
-- Real-time cloud data streaming
-- MQTT protocol implementation
-- Automation logic for irrigation
-- Firebase integration with embedded devices
-
----
-
-### 📡 ESP32 Wi-Fi Security Experimentation Tool
-**Tech:** ESP32, Wi-Fi packet handling, Embedded C
-
-This project was built to understand how Wi-Fi communication works at a lower level. It focuses on packet monitoring, beacon behavior, and wireless communication patterns for cybersecurity learning purposes.
-
-**Key Learning:**
-- Understanding 802.11 Wi-Fi frames
-- Wireless packet observation
-- Embedded device use in security research
-
----
-
-### 🛡️ Network Traffic Analysis using Wireshark
-**Tech:** Wireshark, TCP/IP, DNS, HTTP, ARP
-
-Captured and analyzed live network traffic to identify suspicious packets, DNS queries, ARP spoofing patterns, and HTTP request behavior.
-
-**Key Learning:**
+**What I learned:**
 - Deep packet inspection
-- Protocol-level analysis
-- Identifying anomalies in traffic
+- Identifying malicious traffic
+- Understanding real network behavior
 
 ---
 
-### 🔍 TryHackMe Labs & Network Services Enumeration
-Performed enumeration and analysis of network services, misconfigurations, and vulnerabilities through guided labs.
+### 🔍 Network Scanning & Enumeration Lab
+Performed scanning and enumeration of devices and services in a controlled lab environment using Nmap and Kali Linux tools.
 
-**Key Learning:**
-- Service enumeration
-- Vulnerability identification
-- Practical network security concepts
+**What I learned:**
+- Port scanning techniques
+- Service/version detection
+- Identifying open attack surfaces
+
+---
+
+### 🌐 Web Application Vulnerability Testing (OWASP)
+Tested vulnerable web applications in lab setups to understand SQL Injection, XSS, Authentication flaws, and insecure configurations.
+
+**What I learned:**
+- OWASP Top 10 practically
+- Finding and understanding web vulnerabilities
+- Basic exploitation workflow
+
+---
+
+### 🧪 TryHackMe Security Labs
+Completed multiple rooms involving network services, enumeration, misconfigurations, and exploitation scenarios.
+
+**What I learned:**
+- Real attack methodology
+- Enumeration to exploitation process
+- Thinking like an attacker
 
 ---
 
@@ -114,9 +89,9 @@ Performed enumeration and analysis of network services, misconfigurations, and v
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-To build a career in **Cybersecurity and Digital Forensics** by applying IoT, networking, and security knowledge to solve real-world security problems.
+To become a skilled **Penetration Tester / SOC Analyst / Digital Forensics Investigator** by continuously practicing, analyzing, and understanding real-world cyber attacks and defenses.
 
 ---
 
@@ -126,5 +101,8 @@ To build a career in **Cybersecurity and Digital Forensics** by applying IoT, ne
 - Email: sivagannisetti@gmail.com
 
 ---
+
+⭐ *"Break. Analyze. Secure."*
+
 
 ⭐ **"I don’t just learn security. I build, test, and break systems to understand it."**
